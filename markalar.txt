@@ -1,0 +1,6 @@
+1-samsung
+2-lg
+4-apple
+5-oppo
+6-huawe
+7-iomi

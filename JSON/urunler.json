@@ -1,0 +1,9 @@
+{
+  "urunAdi": "LG",
+  "fiyat": 13000,
+  "stoktami": true,
+  "kategoriler": [
+    "TV",
+    "ELEKTRONIK"
+  ]
+}

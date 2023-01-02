@@ -1,0 +1,17 @@
+birinci satir
+ikinci satir
+ucuncu satir
+dorduncu satir
+besinci satir
+altinci satir
+
+yedinci
+sekizinciyedinci
+sekizinci
+yeni satir
+yedinci
+sekizinci
+yeni satir
+yedinci
+sekizinci
+yeni satir
